@@ -15,6 +15,10 @@ go get github.com/google/uuid
 ```
 go run instorm
 ```
+# build
+```
+go build instorm
+```
 
 the reason i put clients.txt, because if you tried to go to a user profile,
 with www.instagram.com/example/?__a=1 parameter you can't, until you logged in by a instagram account.
