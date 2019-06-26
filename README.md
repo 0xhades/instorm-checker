@@ -5,6 +5,9 @@ special thanks for: github.com/mpg25
 the reason i put clients.txt, because if you tried to go to a user profile,
 with www.instagram.com/example/?__a=1 parameter you can't, until you logged in by a instagram account.
 
+![alt text](img/1.png)
+![alt text](img/2.png)
+
 # about
 i hope if you used my codes, credit me and mpg25 :)
 instagram @wwvq
