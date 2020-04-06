@@ -464,11 +464,12 @@ func main() {
 	_, _ = R.Println(" / // / / (__  ) /_/ /_/ / /  / / / / / /")
 	_, _ = R.Println("/_//_/ /_/____/\\__/\\____/_/  /_/ /_/ /_/ ")
 	_, _ = R.Println("")
-	color.Blue("By BlackHole, inst: @wwvq")
+	color.Blue("By BlackHole, inst: @fenllz")
 	fmt.Println()
 	_, _ = G.Print("Enter a number of threads [best 25] (it depends on your computer): ")
 	_, _ = fmt.Scanln(&TPM)
 	_, _ = G.Println("Enter the path of the clients (instagram accounts) list (at least 2 account like aaa:123321): ")
+	// to bypass the blocking
 	var _path string
 	_, _ = fmt.Scanln(&_path)
 	var accountslist []string
