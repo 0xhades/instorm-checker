@@ -3,7 +3,7 @@ instagram checker written in go language.
 
 # installation
 ```
-git clone github.com/justghostz/instorm.git ~/go/src/instorm
+git clone github.com/justghostz/instorm-checker.git ~/go/src/instorm-checker
 ```
 # libraries
 ```
@@ -12,11 +12,11 @@ go get github.com/google/uuid
 ```
 # run
 ```
-go run instorm
+go run instorm-checker
 ```
 # build
 ```
-go build instorm
+go build instorm-checker
 ```
 
 ![alt text](img/1.png)
