@@ -1,9 +1,5 @@
 # instorm
 instagram checker written in go language.
-special thanks for: github.com/mpg25 and github.com/fatih
-
-the reason i put clients.txt, because if you tried to go to a user profile,
-with www.instagram.com/example/?__a=1 parameter you can't, until you logged in by an instagram account.
 
 # installation
 ```
@@ -27,8 +23,7 @@ go build instorm
 ![alt text](img/2.png)
 
 # about
-i hope if you used my codes, credit me and mpg25 and fatih :)
-instagram @wwvq
+instagram @fenllz
 
-a little note: i wrote the program at hurry, so don't judge me :(
+a little note: this is an old program, maybe it doesn't work anymore
 
